@@ -102,7 +102,7 @@
 </svg> Payments<span class="badge badge-secondary ml-auto">42</span></a><a class="dropdown-item" href="#">
 <svg class="c-icon mr-2">
 <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-file"></use>
-</svg> Projects<span class="badge badge-primary ml-auto">42</span></a>
+</svg> projects<span class="badge badge-primary ml-auto">42</span></a>
 <div class="dropdown-divider"></div><a class="dropdown-item" href="#">
 <svg class="c-icon mr-2">
 <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-lock-locked"></use>
